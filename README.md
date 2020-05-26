@@ -2,11 +2,7 @@
 
 An emails-input component made for Miro. Technical requirements and an example are presented below.
 
-<div style="display: flex;"> 
-    ![](https://imgur.com/a/WQtu7FU)
-    ![](https://imgur.com/jXDDJ8K)
-</div>
-
+![](https://imgur.com/a/WQtu7FU) ![](https://imgur.com/jXDDJ8K)
 
 # Installation
 
@@ -34,8 +30,8 @@ key - an UNIQUE key to be stored by in localStorage
 # API
 
 Method                  | Description                                                                              | Props type
-:-----------------------|:----------------------------------------------------------------------------------------:| ---------:      
-getEmails()             | returns all entered emails                                                               | -
-replaceEmails(emails)   | replaces all entered emails with passed ones                                             | Strting[] | String
-emailsInput.on(callback)| subscribes for email changes and returns a callback function containing relevant emails  | Function(currentEmails)
+:-----------------------|:-----------------------------------------------------------------------------------------|:-----------------------     
+getEmails()             | Returns all entered emails                                                               | -
+replaceEmails(emails)   | Replaces all entered emails with passed ones                                             | Strting[] | String
+emailsInput.on(callback)| Subscribes for email changes and returns a callback function containing relevant emails  | Function(currentEmails)
 
