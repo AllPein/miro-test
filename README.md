@@ -2,7 +2,10 @@
 
 An emails-input component made for Miro. Technical requirements and an example are presented below.
 
-!["Technical Task"](//https://imgur.com/a/WQtu7FU) !["Example"](//https://imgur.com/jXDDJ8K)
+<div>
+    <img src="https://imgur.com/a/WQtu7FU" />
+    <img src="https://imgur.com/jXDDJ8K" />
+</div>
 
 # Installation
 
