@@ -8,7 +8,7 @@ An emails-input component made for Miro. Technical requirements and an example a
 
 Simple installation via npm.
 
-`### npm install emails-input-miro`
+`npm install emails-input-miro`
 
 Make sure, that the version is 1.2.0 or higher.
 
